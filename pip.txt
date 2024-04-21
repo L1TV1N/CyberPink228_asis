@@ -1,0 +1,3 @@
+pip install -U g4f      
+pip install g4f[webdriver]
+pip install -U nodriver
